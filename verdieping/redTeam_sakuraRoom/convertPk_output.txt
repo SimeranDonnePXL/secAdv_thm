@@ -1,0 +1,4 @@
+$ gpg --import "C:\Users\suzen\OneDrive - PXL\2tinj\securityAdvanced\documentation\redTeam\pk.asc"
+gpg: key ECDD0FD294110450: public key "SakuraSnowAngel83@protonmail.com" imported
+gpg: Total number processed: 1
+gpg:               imported: 1
